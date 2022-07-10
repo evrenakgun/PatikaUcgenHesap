@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PatikaHipotenus {
 	public static void main(String[] args) {
+		//@author: Evren Akgün
+		
 		Scanner hipo = new Scanner(System.in);
 		
 		System.out.print("Ilk dik kenar uzunlugu: ");

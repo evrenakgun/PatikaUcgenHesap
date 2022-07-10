@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PatikaUcgenAlan {
 	public static void main(String[] args) {
+		//@author: Evren Akgün
+		
 		Scanner ucgen = new Scanner(System.in);
 		
 		System.out.println("Lutfen ucgenin kenar uzunluklarini giriniz:");
